@@ -1,5 +1,11 @@
 # E2E Tests
 
+<br>
+
+- **Conduit Project**  ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/cypress_e2e_project/blob/e2e_testing/README.md) | [solution](https://github.com/TykhonKozachenko/cypress_e2e_project/commit/bc112ed61cbc3c70c0e14cb1c57ce4a58488ed1a)
+
+---
+
 - **Checkout Flow**  ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/cypress_e2e_demoblaze_page_object/blob/testing/readme.md) | solutions: [checkout](https://github.com/TykhonKozachenko/cypress_e2e_demoblaze_page_object/commit/c8b82c976a7b407e59bc5db2d5d224faf168af7f), [objects](https://github.com/TykhonKozachenko/cypress_e2e_demoblaze_page_object/commit/5a247eede8647b95eeef886ec983bbcbe70aff92)
 - **Wizard Bank**  ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/cypress_e2e_wizard_bank/blob/testing/readme.md) | [solution](https://github.com/TykhonKozachenko/cypress_e2e_wizard_bank/commit/fca24de4727e0484739a136c3d585f45b47a8b84)
 - **Registration Form**  ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/cypress_e2e_student_registration_form/blob/testing/readme.md) | [solution](https://github.com/TykhonKozachenko/cypress_e2e_student_registration_form/commit/3c15ddf8cf3780b30adfe8434ec4010a7307d18d)
