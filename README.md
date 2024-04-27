@@ -3,6 +3,7 @@
 <br>
 
 - **Conduit Project**  ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/cypress_e2e_project/blob/e2e_testing/README.md) | [solution](https://github.com/TykhonKozachenko/cypress_e2e_project/commit/bc112ed61cbc3c70c0e14cb1c57ce4a58488ed1a)
+- **Demoblaze Project**  ‎ ‎    =>‎‎   ‎ ‎  [repo](https://github.com/TykhonKozachenko/demoblaze_e2e_testing)
 
 ---
 
